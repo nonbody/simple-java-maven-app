@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!222";
+    private final String message2 = "Hello World!222";
 
     public App() {}
 
@@ -15,7 +15,7 @@ public class App
     }
 
     private final String getMessage() {
-        return message;
+        return message2;
     }
 
 }
